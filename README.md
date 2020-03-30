@@ -27,6 +27,7 @@ For the case of these tasks I suggest everyone to please **fork this repository*
 We will be going through all your codes and we will be checking them out. Once everyone puts their codes, we will be choosing the best one and **merging the code to the main repository here**.
 
 We encourage you to do this as this will give you an understanding of GitHub as it very important and necessary. Next you will also be able to see everyones codes by clicking on the [pull requests tab](https://github.com/analytics-club-iitm/Daily-Sessions/pulls) of this repo and we will ensure to reply and suggest improvements for everyone.
+bruh
 
 **Please do make best use of this opportunity and feel free to communicate with us.**
 
